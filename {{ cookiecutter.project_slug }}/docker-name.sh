@@ -1,0 +1,1 @@
+image_name={{ cookiecutter.project_name }}-mojo-box:0.1
