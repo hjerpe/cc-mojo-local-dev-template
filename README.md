@@ -1,4 +1,4 @@
-# Cookiecutter Python Local Dev Template
+# Cookiecutter Mojo Local Dev Template
 
 ## Clone repository using cookiecutter
 Clone the project template using cookiecutter. Hence, make
